@@ -1,0 +1,18 @@
+mat-toolbar {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    position: fixed;
+    top: 0;
+    color: black;
+    background-color: rgba(129, 185, 104, 0.968)
+}
+
+#logout {
+    display: flex;
+    align-items: center;
+}
+
+#logout i {
+    margin-left: 10px;
+}
